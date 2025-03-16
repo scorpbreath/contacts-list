@@ -1,7 +1,7 @@
 # ContactsApp
 
 ## 📌 Description
-ContactsApp is a mobile application for managing contacts. It allows users to add, edit, and delete contacts easily. The application is optimized for mobile devices and provides a smooth experience for managing personal contact information.
+СontactsApp is a web application and a mobile-optimized version for managing contacts. It allows users to add, edit, and delete contacts.
 
 ## 🚀 Installation and Setup
 
